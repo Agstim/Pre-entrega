@@ -130,8 +130,8 @@ article div ul li {
 }
 
 .service-details {
-    /* display: flex; */
-    /* align-content: right; */
+    
+    align-content: right;
     flex: 1;
 }
 
